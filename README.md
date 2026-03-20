@@ -91,12 +91,8 @@
   /* Closing Doxology */
   "we praise you o god your power is great":
     "Lumara Se-zula Tona Etkal-ah ne Tona Blen et Blen"
-};
 
-
-/* ================= LEXICON ================= */
-const RX_WORDS={
-god:"Etkal",lord:"Let",jesus:"Yesua",christ:"Christos",spirit:"Ashnir",holy:"Elivc",
+God:"Etkal",lord:"Let",jesus:"Yesua",christ:"Christos",spirit:"Ashnir",holy:"Elivc",
 light:"Yize",life:"Ashlum",truth:"Zenlum",love:"Aned",glory:"Lumshariel",
 mercy:"Ashmariel",salvation:"Ashdeivar",faith:"Kelumiel",hope:"Navael",
 peace:"Shalomiel",power:"Blen",strength:"Blen",king: "Varlumiel",
